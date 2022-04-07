@@ -11,6 +11,8 @@ We made all stages of assignment.
     - all dependencies in `./requirements.txt`
 3) Client is here `./notebooks/assignment_client.ipynb`
 
+Github link: https://github.com/14MR/DS_Assignment6
+
 Project Organization
 ------------
 
