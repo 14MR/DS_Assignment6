@@ -1,7 +1,15 @@
 Assignment6
 ==============================
 
-A short description of the project.
+We made all stages of assignment.
+1) Train model notebook you can find in `notebooks/assignment_train.ipynb`
+2) Results keep here:
+    - expernal dataset in `./data/external`
+    - models in `./models`
+    - pictures and plots in `./reports/figures`
+    - python script is `./src/models/model_development.py`
+    - all dependencies in `./requirements.txt`
+3) Client is here `./notebooks/assignment_client.ipynb`
 
 Project Organization
 ------------
